@@ -6,7 +6,6 @@
   gap: 20px;
 }
 
-/* Room and users component */
 .roomAndUsersColumn {
   border-right: 1px solid #dfdfdf;
 }
@@ -30,7 +29,6 @@
   margin-bottom: 12px;
 }
 
-/* Messages */
 .messagesColumn {
   height: 85vh;
   overflow: auto;
@@ -51,7 +49,6 @@
   color: #fff;
 }
 
-/* Message input and button */
 .sendMessageContainer {
   padding: 16px 20px 20px 16px;
 }
